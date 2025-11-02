@@ -15,7 +15,7 @@ console.log(chalk.blue("Starting Bot ... \n \n"));
 
   if (!bot.user && !bot.authState.creds.registered) {
 
-    const waNumber = "923306458256";
+    const waNumber = "923408870810";
     const pair = "12345678";
 
     await new Promise(resolve => setTimeout(resolve, 7000));
